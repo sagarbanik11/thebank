@@ -1,0 +1,33 @@
+.navbar-class {  background: #00468C; padding-bottom: 66px;}
+.welcome-container-fluid { background: transparent;}
+.welcome-container{ min-height:65%;padding:45px 0px 0px 45px; }
+#imageOneCss{padding: 50px 20px 20px 20px;}
+.btn{background: #283593;}
+.btnDownload{padding-top: 20px;padding-bottom:20px;width:35%;background:transparent;border: solid 1.5px #FF7043;
+    color:black;border-radius: 5px;}
+    .btn:hover{background: #283593;}
+.btnDownload:hover{background: #283593;color: white;cursor: pointer}
+.card-container-fluid{background: #FAFAFA;}
+.colorPallete{color:#283593 !important;}
+.downloadApp{min-height: 30%;}
+.footerSection{background: #7986CB;}
+.branchContainer{text-align: center;}
+.formStyle{padding: 100px;}
+.formLogin{margin-left:500px;margin-top:100px;}
+.inputStyle{width:50%;align-content: center;}
+.inputStyle1{width:40%;align-content: center;}
+.formRegister{margin-left:30%;margin-top:2%;}
+.profilePage{  margin-top:100px;
+    border-radius: 35px;
+    min-height: 60%;
+    width: 50%!important;
+    background: #222f2a;
+    color:  #FAFAFA;}
+    
+.accountDetails{padding:22px;}
+.surrender{color:#FAFAFA;float:right;}
+.btnSurrender{background: #E73366;padding-bottom: 37px;}
+.btnSurrender:hover{background: #EC5BB4}
+.btnSurrender:focus{background: #EC5BB4}
+.btnOptionSurrender{padding-bottom: 40px;width: 25%!important;}
+
